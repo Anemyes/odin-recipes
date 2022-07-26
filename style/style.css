@@ -1,20 +1,48 @@
-.celerita {
-    background-color: white;
-    color: brown;
+body {
+    background-color: grey;
+}
+
+h1 {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    font-size: 36px;
+    font-family: Verdana, "Times New Roman", sans-serif;
+}
+
+.bar{
+    text-align: center;
+}
+
+a,
+.mojito,
+.pesto {
+    margin: 0.3em;
+}
+
+.space {
+    margin: 0.3em;
+}
+
+.celerita,
+.mojito,
+.pesto {
     font-size: 24px;
     font-family: Verdana, "Times New Roman", sans-serif ;
+}
+
+
+.celerita {
+    background-color: white;
+    color: brown; 
 }
 
 .mojito {
     background-color: white;
     color: yellowgreen;
-    font-size: 24px;
-    font-family: Verdana, "Times New Roman", sans-serif;
 }
 
 .pesto {
     background-color: white;
     color: green;
-    font-size: 24px;
-    font-family: Verdana, "Times New Roman", sans-serif;
 }
